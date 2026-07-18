@@ -270,9 +270,9 @@ This project is licensed under the MIT License.
 
 AWS Cloud | Laravel | DevOps Engineer
 
-GitHub: [https://github.com/yourusername](https://github.com/Anit-jha88/laravel-multivender/)
+GitHub: https://github.com/Anit-jha88/laravel-multivender/
 
-LinkedIn:[ https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anit-jha-06886280/)
+LinkedIn:https://www.linkedin.com/in/anit-jha-06886280/
 
 Website: https://clouddevopslabs.in/shopx
 
