@@ -4,7 +4,7 @@ A modern **Multi-Vendor E-Commerce Platform** built with Laravel. This applicati
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 ### Customer
 - User Registration & Login
